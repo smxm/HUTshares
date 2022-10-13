@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+  - 主页: index.md
+  - 第一期:
+    - haha: 第一期/haha.md
+
