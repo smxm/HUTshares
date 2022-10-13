@@ -6,3 +6,4 @@ nav:
     - 1: 第一期/1.md
 theme:
   name: material
+  custom_dir: overrides
