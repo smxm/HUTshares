@@ -17,6 +17,7 @@ nav:
     - 画图3d: 第一期/画图3d.md
     - aegisub: 第一期/aegisub.md
     - everything: 第一期/everything.md
+    - ppt: 第一期/ppt.md
 theme:
   name: material
   custom_dir: overrides
