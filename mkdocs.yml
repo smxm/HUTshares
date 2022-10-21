@@ -6,12 +6,13 @@ nav:
     - 油猴脚本: 第一期/油猴脚本.md
     - reveal.js: 第一期/reveal.js.md
     - 小鹤: 第一期/小鹤.md
-    - 一些文档: 第一期/一些文档.md
+    - 一些网站: 第一期/一些网站.md
     - idm: 第一期/idm.md
     - trados: 第一期/trados.md
     - arctime: 第一期/arctime.md
     - 画图3d: 第一期/画图3d.md
     - aegisub: 第一期/aegisub.md
+    - everything: 第一期/everything.md
 theme:
   name: material
   custom_dir: overrides
