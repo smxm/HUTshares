@@ -9,8 +9,6 @@
 - 官方教程：无
 
 - 软件截图：
-<figure markdown>
-  ![软件截图](./img/aegisub_screenshot.png){ width="600" }
-</figure>
-  
+
+![软件截图](./img/aegisub_screenshot.png)
 
