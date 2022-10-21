@@ -1,4 +1,8 @@
 site_name: 分享会
+
+repo_name: 分享会
+repo_url: https://github.com/smxm/HUTshares
+
 nav:
   - 导航: index.md
   - 第一期:
@@ -16,3 +20,10 @@ nav:
 theme:
   name: material
   custom_dir: overrides
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/smxm/HUTshares
+  analytics:
+    provider: google
+    property: G-KJB4RXSKZG
