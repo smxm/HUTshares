@@ -5,6 +5,7 @@ nav:
     - haha: 第一期/haha.md
     - 1: 第一期/1.md
     - 1: 1.md
+    - 2: 2.md
 theme:
   name: material
   custom_dir: overrides
