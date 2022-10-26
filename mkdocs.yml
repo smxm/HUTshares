@@ -8,7 +8,7 @@ nav:
   - 第一期:
     - 检索: 第一期/检索.md
     - 开场: 第一期/开场.md
-    - PPT: 第一期/PPT.md
+    - ppt: 第一期/ppt.md
 theme:
   name: material
   custom_dir: overrides
